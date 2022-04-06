@@ -2,12 +2,12 @@
 //  AppDelegate.swift
 //  MAD_Ind04_Goertemiller_Nicholas
 //
-//  Created by Nicholas Goertemiller on 4/5/22.
+//  Created by Nicholas Goertemiller on 4/4/22.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
